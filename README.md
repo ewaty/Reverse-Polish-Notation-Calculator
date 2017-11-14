@@ -1,0 +1,1 @@
+This C++ application accepts an equation written in infix notation and converts it to postfix notation. Additionally it creates a tree and uses it to calculate the values of the function over a range.
